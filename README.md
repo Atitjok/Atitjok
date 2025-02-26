@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate **Computer Science Engineer** fr
 - 👯 I’m looking to collaborate with other developers, particularly on open-source projects that can make a positive impact in Africa and beyond.
 - 💬 Feel free to ask me about **programming**, **tech education**, or anything related to **Computer Science**!
 - 🌟 I am a firm believer in the power of **technology** to bring change and innovation, especially in developing regions like South Sudan.
-- 📫 How to reach me: [samsonmaan@email.com](mailto:samsonmaan@email.com) | [LinkedIn](https://linkedin.com/in/samsonmaan)
+- 📫 How to reach me: Samsonmaanbher@gmail.com | [LinkedIn](https://linkedin.com/in/samsonmaan)
 
 ## Tech Stack 🛠️
 - **Languages**: Python, JavaScript, C++, Java
